@@ -1,0 +1,2 @@
+isi1:mohamed,beji,mohamed@gmail.com,adresse de mohammed,282211445,28221145,isi1,1er;ali,beji,ali@gmail.com,adresse de ali,28221145,278221145,isi1,2eme;.
+mrsa:hamma,ajili,hama@gmail.com,adresse de hama,789654123,321456987,mrsa,1er;.
